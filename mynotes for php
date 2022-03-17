@@ -1,0 +1,10 @@
+SELF::
+self keyword used for the current class and basically it is used to access static members, methods, and constants
+
+
+PARENT:;
+parent:: keyword used for the parent class and it is mostly used when you want to call the parent constructor or methods. It also is used to access members and constants.
+
+ABSTRACT CLASS
+abstract class me child classes me use hone wale sare methods ko phle se define krna prega  
+abstract class ke objects nahi bante 
